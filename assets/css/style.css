@@ -3,23 +3,30 @@
     margin: 0;
 }
 body {
-    background-color: darkgray;
-}
+    background-color: #494949;
+}   
 img {
    width: 100px;
    height: 100px; 
 }
 #container {
-    background-color: darkgrey;
+    background-color: #494949;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    padding-top: 200px;
 }
 #game-section {
     text-align: center;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid #aaaaaa 2px;
+    padding-bottom: 30px;
 }
 #title {
     text-align: center;
     padding: 10px;
+    margin-top: 20px;
 }
 #wins {
     margin-top: 20px;
