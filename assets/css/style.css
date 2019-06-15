@@ -3,6 +3,7 @@
     margin: 0;
 }
 body {
+    background-image: url('assets/images/prism.png');
     background-color: #494949;
 }   
 img {
@@ -20,7 +21,7 @@ img {
     width: 600px;
     margin-left: auto;
     margin-right: auto;
-    border: solid #aaaaaa 2px;
+    border: solid #ffffff 4px;
     padding-bottom: 30px;
 }
 #title {
